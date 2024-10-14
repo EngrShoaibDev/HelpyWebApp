@@ -1,0 +1,88 @@
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.staticwebassets.runtime.json
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.exe
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.deps.json
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.runtimeconfig.json
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.pdb
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.AssemblyInfoInputs.cache
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.AssemblyInfo.cs
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.csproj.CoreCompileInputs.cache
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.RazorAssemblyInfo.cache
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.RazorAssemblyInfo.cs
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.HelpyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.HelpyWebApp.props
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HelpyWebApp.props
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HelpyWebApp.props
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\scopedcss\bundle\HelpyWebApp.styles.css
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\scopedcss\projectbundle\HelpyWebApp.bundle.scp.css
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\refint\HelpyWebApp.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.pdb
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.genruntimeconfig.cache
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\ref\HelpyWebApp.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.csproj.AssemblyReference.cache
+C:\Users\WMC\Desktop\Helpy App\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWeb.8D28A685.Up2Date
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.staticwebassets.runtime.json
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.exe
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.deps.json
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.runtimeconfig.json
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\HelpyWebApp.pdb
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.AssemblyInfo.cs
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.RazorAssemblyInfo.cache
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.RazorAssemblyInfo.cs
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.HelpyWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.HelpyWebApp.props
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HelpyWebApp.props
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HelpyWebApp.props
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\scopedcss\bundle\HelpyWebApp.styles.css
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\scopedcss\projectbundle\HelpyWebApp.bundle.scp.css
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWeb.8D28A685.Up2Date
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\refint\HelpyWebApp.dll
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.pdb
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\HelpyWebApp.genruntimeconfig.cache
+C:\Users\hp\Downloads\HelpyWebApp\HelpyWebApp\HelpyWebApp\obj\Debug\net6.0\ref\HelpyWebApp.dll
